@@ -1,0 +1,6 @@
+database:
+  username: sshacs
+  port_num: 22
+  hostname: HOST.ssh.upload.akamai.com
+  root_dir: 123456
+  priv_key: /home/NAME/.ssh/id_rsa
